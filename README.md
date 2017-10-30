@@ -10,7 +10,7 @@
   <li>輸出圖片</li>
 </ol>
 
-### 判斷方式#
+### 判斷方式 #
 cD 為 i % 4
 rD 為 j % 4
 若 array[i][j] < Dither_Matrix[cD][rD]
@@ -22,11 +22,11 @@ rD 為 j % 4
 
 以下為轉換前與轉換後
 
-#### 轉換前#
-![Alt text](https://photos.app.goo.gl/gkWGjCRXQlJfni7q1)
+#### 轉換前 #
+![Alt text](https://imgur.com/a/ruyIT)
 
-#### 轉換後#
-![Alt text](https://photos.app.goo.gl/rKwHh2DwICU9NFmG2)
+#### 轉換後 #
+![Alt text](https://imgur.com/a/ruyIT)
 
 
 ps.丟入任何圖片都可以轉換喔:D
