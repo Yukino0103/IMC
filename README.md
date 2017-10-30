@@ -23,10 +23,10 @@ rD 為 j % 4
 以下為轉換前與轉換後
 
 #### 轉換前 #
-![Alt text](https://imgur.com/a/ruyIT)
+[Imgur](https://i.imgur.com/sQIcDAt.jpg)
 
 #### 轉換後 #
-![Alt text](https://imgur.com/a/ruyIT)
+[Imgur](https://i.imgur.com/7opTuVD.jpg)
 
 
 ps.丟入任何圖片都可以轉換喔:D
